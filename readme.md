@@ -660,7 +660,7 @@ Call方法可以抛出异常，run方法不可以。
 5、线程的状态流转图
 
 线程的生命周期及五种基本状态：
-![Image text](../pic/concurrent/aa.jpg)
+![](./images/线程生命周期.png)
 Java线程具有五中基本状态
 
 1）新建状态（New）：当线程对象对创建后，即进入了新建状态，如：Thread t = new MyThread();
